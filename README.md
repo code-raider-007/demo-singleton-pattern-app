@@ -1,0 +1,1 @@
+# demo-singleton-pattern-app
